@@ -189,12 +189,18 @@ cultor humilimus
             </p>
             <p>With the sixth Booke of mu<g ref="char:EOLhyphen"/>scles, and a Table of the figures.</p>
             <pb facs="tcp:16110:7"/>
-            <figure>
-               <head>Fig. I.</head>
-            </figure>
-            <figure>
-               <head>Fig. II.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:16110:8"/>
+               <figure>
+                  <head>Fig. I.</head>
+               </figure>
+            </p>
+            <p>
+               <pb facs="tcp:16110:8"/>
+               <figure>
+                  <head>Fig. II.</head>
+               </figure>
+            </p>
          </div>
       </front>
       <body>
@@ -2257,9 +2263,14 @@ substance. It is covered with the reduplication of the skin of the roofe of the 
             <div n="1" type="chapter">
                <pb n="388" facs="tcp:16110:206"/>
                <head>CAP. I. Of the Braine.</head>
-               <figure>
-                  <head>Fig. III.</head>
-               </figure>
+               <p>OF the Head there be two parts: That which is hay<g ref="char:EOLhyphen"/>ry called <hi>Calva,</hi> the scalp, and that which hath
+<pb facs="tcp:16110:206"/>
+                  <figure>
+                     <head>Fig. III.</head>
+                  </figure>
+                  <pb facs="tcp:16110:207"/>
+                  <pb n="389" facs="tcp:16110:207"/>
+none, termed <hi>Facies</hi> the face.</p>
                <p>The Scalp hath foure parts. 1. <hi>Sinciput,</hi> the forepart beginning at the forehead, and rea<g ref="char:EOLhyphen"/>ching to the coronall suture.</p>
                <p>2. <hi>Occiput,</hi> the hinder part possessing the di<g ref="char:EOLhyphen"/>
                   <gap reason="illegible: missing" extent="4 letters">
@@ -2777,12 +2788,18 @@ partly upon the legs. The <hi>lumbares nervi</hi> or si<g ref="char:EOLhyphen"/>
 <pb n="502" facs="tcp:16110:264"/>
 wit, the anterior and po<g ref="char:EOLhyphen"/>sterior; but the rest of the paires before they come out, are double on each side: and on each side one nerve marcheth forward, and another backward. The upper<g ref="char:EOLhyphen"/>most three, which are anterior, goe to the leg: The two lowermost passed to the muscles of the <hi>anus</hi> and bladder.</p>
                <pb facs="tcp:16110:264"/>
-               <figure>
-                  <head>Fig. IV.</head>
-               </figure>
-               <figure>
-                  <head>Fig. V.</head>
-               </figure>
+               <p>
+                  <pb facs="tcp:16110:265"/>
+                  <figure>
+                     <head>Fig. IV.</head>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:16110:265"/>
+                  <figure>
+                     <head>Fig. V.</head>
+                  </figure>
+               </p>
             </div>
          </div>
          <div n="5" type="book">
